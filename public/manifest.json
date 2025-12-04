@@ -1,0 +1,1 @@
+{\n  "name": "AI Call Assistant",\n  "short_name": "AICall",\n  "start_url": "/",\n  "display": "standalone",\n  "background_color": "#000",\n  "theme_color": "#000",\n  "icons": [{"src": "/icon.png", "sizes": "192x192"}]\n}
